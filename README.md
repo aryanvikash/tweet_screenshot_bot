@@ -13,6 +13,6 @@
 ## Installation
     sudo pip3 install - requirements.txt
     python3 bot.py
-## Known Bugs
-    - Not working on cloud server giving some Rate limit exceed 
+## Known Bugs 
+    - Not working on cloud server giving some Rate limit exceed (Help needed)
 

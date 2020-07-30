@@ -3,5 +3,5 @@ selenium
 Pillow==2.2.1
 TgCrypto
 https://github.com/pyrogram/pyrogram/archive/asyncio.zip
-# sudo apt-get install -y xvfb 
+
 
