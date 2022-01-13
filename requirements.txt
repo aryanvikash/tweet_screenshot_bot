@@ -1,6 +1,6 @@
 
 selenium
-Pillow==2.2.1
+Pillow==9.0.0
 TgCrypto
 https://github.com/pyrogram/pyrogram/archive/asyncio.zip
 
